@@ -14,8 +14,8 @@ public class PuntoDos {
         int a = input.nextInt();
         System.out.print("\nIngresa segundo numero: ");
         int b = input.nextInt();
-        System.out.printf("\nLa suma es %d", a+b);
-        System.out.printf("\nLa diferencia es %d", a-b);
-        System.out.printf("\nEl producto es %d", a*b);
+        System.out.printf("\nLa suma es %d", a + b);
+        System.out.printf("\nLa diferencia es %d", a - b);
+        System.out.printf("\nEl producto es %d", a * b);
     }
 }

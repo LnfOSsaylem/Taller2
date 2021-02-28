@@ -14,9 +14,9 @@ public class PuntoTres {
         System.out.println("\033\143");
         System.out.print("Digite primer valor: ");
         double a = input.nextDouble();
-        System.out.print("Digite primer valor: ");
+        System.out.print("Digite segundo valor: ");
         double b = input.nextDouble();
-        System.out.print("Digite primer valor: ");
+        System.out.print("Digite tercer valor: ");
         double c = input.nextDouble();
         System.out.printf("\nLa suma es: %.2f", a + b + c);
         System.out.printf("\nEl promedio es: %.2f", (a + b + c) / 3);
